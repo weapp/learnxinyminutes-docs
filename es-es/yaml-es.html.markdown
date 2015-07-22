@@ -122,7 +122,7 @@ numero_complejo_python: !!python/complex 1+2j
 # TIPOS EXTRAS EN YAML #
 ########################
 
-# Stirngs y números no son los únicos escalares que YAML puede entener.
+# Strings y números no son los únicos escalares que YAML puede entender.
 # YAML también puede parsear fechas en formato ISO .
 fechaHora: 2001-12-15T02:59:43.1Z
 fechaHora_con_espacios: 2001-12-14 21:59:43.10 -5
